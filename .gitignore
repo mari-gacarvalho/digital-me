@@ -1,0 +1,9 @@
+.env
+knowledge_base/linkedin.pdf
+knowledge_base/summary.txt
+__pycache__/context.cpython-312.pyc
+__pycache__/styles.cpython-312.pyc
+__pycache__/rate_limiter.cpython-312.pyc
+__pycache__/tools.cpython-312.pyc
+.venv/
+__pycache__/
